@@ -21,7 +21,9 @@
     border-color: var(--color-primary-variant);
     cursor: default;
 }
-
+.coding-head{
+    position: relative;
+}
 .l-edit{
     position: absolute;
     margin-left: 2px;
@@ -31,7 +33,7 @@
 .lcf-edit{
     position: absolute;
     margin-left: 4px;
-    bottom:-2148px;
+    bottom:126px;
     cursor: pointer;
     font-size: 17px;
 }
@@ -39,7 +41,7 @@
     position: absolute;
     margin-left: 4px;
     font-size: 17px;
-    bottom:-2146px;
+    bottom:127px;
     cursor: pointer;
 }
 .up-dist{
