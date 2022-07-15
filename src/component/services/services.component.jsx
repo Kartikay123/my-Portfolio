@@ -16,9 +16,9 @@ const Service = () => {
                     <a href="https://leetcode.com/Kartikay123/" target="_blank" className="l-edit">Leetcode</a>
                     <small className="up-dist">
                         <p>
-                            1. Solved 450+ Problems.
+                            1. Solved 500+ Problems.
                             <br/>
-                            2. Max. Rating is 1680.
+                            2. Max. Rating is 1723.
                         </p>
                     </small>
                 </div>
