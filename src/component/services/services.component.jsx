@@ -28,9 +28,9 @@ const Service = () => {
                     <a href="https://www.codechef.com/users/kartikay_12345" target="_blank" className="l-edit">Codechef</a>
                     <small className="up-dist">
                         <p>
-                            1. 3⭐at Codechef.
+                            1. 4⭐at Codechef.
                             <br/>  
-                            2. Max. Rating is 1753.
+                            2. Max. Rating is 1818.
                         </p>
                     </small>
                 </div>
