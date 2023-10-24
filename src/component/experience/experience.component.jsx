@@ -18,7 +18,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>C,C++</h4>
+                                <h4>C/C++</h4>
                                 <small className="text-light">Advanced</small>
                             </div>
 
@@ -27,8 +27,8 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Data Structure</h4>
-                                <small className="text-light">Intermediate</small>
+                                <h4>Data Structure </h4>
+                                <small className="text-light">Advanced</small>
                             </div>
 
                         </article>
@@ -36,7 +36,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Algorithms</h4>
+                                <h4>SQL and DBMS</h4>
                                 <small className="text-light">Intermediate</small>
                             </div>
 
@@ -46,7 +46,7 @@ const Experience = () => {
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
                                 <h4>Python</h4>
-                                <small className="text-light">Basic</small>
+                                <small className="text-light">Intermediate</small>
                             </div>
 
 
@@ -55,7 +55,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Javascript</h4>
+                                <h4>HTML,CSS, Javascript</h4>
                                 <small className="text-light">Intermediate</small>
 
                             </div>
@@ -65,7 +65,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>HTML,CSS,SASS</h4>
+                                <h4>Object Oriented Programming</h4>
                                 <small className="text-light">Intermediate</small>
                             </div>
 
@@ -80,7 +80,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>ReactJS</h4>
+                                <h4>React.js</h4>
                                 <small className="text-light">Intermediate</small>
 
                             </div>
@@ -90,7 +90,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Redux</h4>
+                                <h4>Node.js</h4>
                                 <small className="text-light">Intermediate</small>
 
                             </div>
@@ -100,7 +100,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Linux</h4>
+                                <h4>Operating System</h4>
                                 <small className="text-light">Intermediate</small>
                             </div>
 
@@ -109,7 +109,7 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Git and Github</h4>
+                                <h4>Git and GitHub</h4>
                                 <small className="text-light">Intermediate</small>
 
                             </div>
@@ -119,16 +119,16 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>VS code</h4>
-                                <small className="text-light">Intermediate</small>
+                                <h4>Machine Learning</h4>
+                                <small className="text-light">Basics</small>
                             </div>
 
                         </article>
                         <article className="experience-details">
                             <BsPatchCheckFill className="edit-icon" />
                             <div>
-                                <h4>Qt Creator</h4>
-                                <small className="text-light">Basic</small>
+                                <h4>Computer Network</h4>
+                                <small className="text-light">Intermediate</small>
 
                             </div>
 

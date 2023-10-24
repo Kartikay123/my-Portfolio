@@ -42,9 +42,9 @@ const About = () => {
 
                     </div>
                     <p>
-                    Hi, Myself Kartikay Gupta 3rd year Computer Science Student pursuing Bachelor's of Technology from Jabalpur 
-                    Engineering College. Highly enthusiastic and curious student. Eager to learn and explore new thing. Want to gain
-                    some industrial exposure and experience the work culture of Industries.
+                    Hi, Myself Kartikay Gupta 4th year Computer Science Student pursuing Bachelor's of Technology from Jabalpur 
+                    Engineering College. Currently Working as Coding Assistant in Codeyoung, Previously worked as Software Development 
+                    Engineer Intern at Xobin and Web Development Trainee Intern at Internshala. I am quick learner.
                     
                     </p>
                     <a href="#contact" className="btn btn-primary">Let's Talk</a>
