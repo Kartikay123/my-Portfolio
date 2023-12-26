@@ -14,7 +14,7 @@ const Header = () => {
                     Kartikay Gupta
                 </h1>
                 <h3 className="text-light">
-                    Competitive Programmer, ReactJS Developer, Machine Learning.
+                    Competitive Programmer, MERN Stack Developer.
                 </h3>
                 <Cta/>
             <Linksocial/>
